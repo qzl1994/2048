@@ -31,5 +31,15 @@
 #cocos2d
 cocos2d/
 Debug.win32/
-.DS_Store
-proj.win32/2048.opensdf
+proj.win32/
+
+proj.android/
+proj.android-studio/
+proj.ios_mac/
+proj.linux/
+proj.tizen/
+proj.win8.1-universal/
+proj.win10/
+CMakeLists.txt
+.cocos-project.json
+.gitignore
